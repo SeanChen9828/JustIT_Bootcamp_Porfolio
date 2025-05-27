@@ -53,34 +53,11 @@ Developed key Excel skills, including:
 ![Age Purchase Chart](Pic_Inserted/Age-Based_Purchase_Trends.png)
 
 ---
-
-### 🗣️ Data Storytelling & Presentation Prep
-
-Simulated a board-level presentation based on a **12-month customer churn** scenario:
-
-- Prepared actionable insights using:
-  - SQL, Python (pandas, seaborn)
-  - Power BI for dashboards
-  - PowerPoint for executive-ready storytelling
-- Best practices covered:
-  - Lead with insights
-  - Use 1 graph per slide
-  - Keep language simple and decision-focused
-
-**📷 Example: Power BI Dashboard (Mock)**
-
-![Power BI Dashboard](images/week1_powerbi_dashboard.png)
-
----
-
 ### 🛠️ Tools Used
 
 | Tool      | Purpose                                 |
 |-----------|------------------------------------------|
 | Excel     | Data cleaning, analysis, dashboards      |
-| Power BI  | Interactive visualization for churn data |
-| Python    | EDA, plotting (matplotlib, seaborn)      |
-| PowerPoint| Executive communication & storytelling   |
 
 ---
 
