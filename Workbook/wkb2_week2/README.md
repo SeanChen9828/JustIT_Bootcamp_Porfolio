@@ -54,7 +54,7 @@ This section presents my progress and key deliverables from **Week 2** of the **
 
 ### 🧬 Dashboard Project 3: Global Health & NHS Support
 
-- Built 5 dashboards using population and health datasets
+- Built 4 main dashboards using population and health datasets
 - Covered:
   - 🌍 Population distribution and growth trends
   - 🎗️ Global cancer burden and gender disparities
