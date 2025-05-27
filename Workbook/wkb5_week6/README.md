@@ -25,7 +25,7 @@ for num in range(1, 101):
 ---
 
 ## 📊 Pandas Data Analysis: Student Dataset
-- **Exercise 1: Loading and Exploring Data**
+### Exercise 1: Loading and Exploring Data
 
 ```python
 import pandas as pd
@@ -39,7 +39,7 @@ df.describe()                    # Summary statistics
   <img src="Pic_Inserted/Loading_Exploring_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-- **Exercise 2: Indexing and Slicing**
+### Exercise 2: Indexing and Slicing
 ```python
 df['name']                        # Single column
 df[['name', 'mark']]              # Multiple columns
@@ -51,7 +51,7 @@ df[df['class'] == 'Four']         # Filter by class
   <img src="Pic_Inserted/Indexing_Slicing_data3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-- **Exercise 3: Data Manipulation**
+### Exercise 3: Data Manipulation
 ```python
 df['passed'] = df['mark'] >= 60    # New boolean column
 df.rename(columns={'mark':'score'}) # Rename column
@@ -63,7 +63,7 @@ df.drop('passed', axis=1)           # Remove column
   <img src="Pic_Inserted/Data_Manipulating3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-- **Exercise 4: Aggregation**
+### Exercise 4: Aggregation
 ```python
 df.groupby('class')['mark'].mean()  # Avg mark per class
 df['class'].value_counts()          # Students per class
@@ -73,7 +73,7 @@ df.groupby('gender')['mark'].mean() # Gender performance
   <img src="Pic_Inserted/Aggregation_Group.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-- **Exercise 5: Advanced Operations**
+### Exercise 5: Advanced Operations
 ```python
 # Pivot Table
 pd.pivot_table(df, index='class', columns='gender', values='mark')
@@ -91,7 +91,7 @@ df.sort_values('mark', ascending=False)
   <img src="Pic_Inserted/Advanced_Operations2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-- **Exercise 6/7: Export & Visualization**
+### Exercise 6/7: Export & Visualization
 ```python
 df.to_csv('graded_students.csv')   # Export
 df.plot(kind='bar', x='name', y='mark')  # Visualization
