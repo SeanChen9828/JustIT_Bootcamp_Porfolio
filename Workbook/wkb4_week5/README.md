@@ -1,5 +1,4 @@
 # 📘 Week 5 – WorkBook Summary  
-**Data Technician Course**  
 
 This document summarizes key learnings and hands-on activities from Week 5, focusing on cloud computing, Azure services, data regulations, and a business case study.  
 
