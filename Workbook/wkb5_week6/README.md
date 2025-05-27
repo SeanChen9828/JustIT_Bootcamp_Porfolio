@@ -56,7 +56,11 @@ df['passed'] = df['mark'] >= 60    # New boolean column
 df.rename(columns={'mark':'score'}) # Rename column
 df.drop('passed', axis=1)           # Remove column
 ```
-Data Manipulation
+<p float="center">
+  <img src="Pic_Inserted/Data_Manipulating1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Data_Manipulating2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Data_Manipulating3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 - **Exercise 4: Aggregation**
 ```python
