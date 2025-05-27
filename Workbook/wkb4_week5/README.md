@@ -44,10 +44,18 @@ Explored core concepts and real-world applications:
 
 ## 🔧 **Azure Hands-On Labs**  
 ### **1. Relational Data (Azure SQL)**  
-- Created tables, ran queries:  
-  ```sql  
-  SELECT * FROM Customers WHERE PurchaseFrequency > 5;
-  ```
+- Set up and queried SQL databases.
+- Evidence: Screenshots of configured tables and queries.
+<p float="center">
+  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+</p>
+
+### **2. Non-Relational Data**  
+- Worked with Azure Blob Storage and Cosmos DB.
+- Evidence: Screenshots of data uploads and NoSQL operations.
+<p float="center">
+  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+</p>
 ---
 
 
