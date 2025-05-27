@@ -68,7 +68,9 @@ df.groupby('class')['mark'].mean()  # Avg mark per class
 df['class'].value_counts()          # Students per class
 df.groupby('gender')['mark'].mean() # Gender performance
 ```
-Aggregation Results
+<p float="center">
+  <img src="Pic_Inserted/Aggregation_Group.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 - **Exercise 5: Advanced Operations**
 ```python
