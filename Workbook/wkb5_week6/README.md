@@ -34,8 +34,8 @@ df.info()                        # DataFrame structure
 df.describe()                    # Summary statistics
 ```
 <p float="center">
-  <img src="Pic_Inserted/Loading_Exploring_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
-  <img src="Pic_Inserted/Loading_Exploring_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
+  <img src="Pic_Inserted/Loading_Exploring_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Loading_Exploring_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
 - **Exercise 2: Indexing and Slicing**
