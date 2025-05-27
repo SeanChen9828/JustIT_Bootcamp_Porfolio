@@ -60,6 +60,21 @@ VALUES ('Sean', 'Chen', 'Sean@example.com', '444-1234');
 ```
 ---
 
+### 🧪 SQL Practical: World Database Challenges
+
+Ran real-world SQL queries using `world_db`. Key examples include:
+
+---
+
+####  Count US Cities
+
+```sql
+SELECT count(Name)
+FROM city
+WHERE CountryCode = "USA";
+```
+
+---
 ### 🛠️ Tools Used
 
 | Tool       | Purpose                                          |
