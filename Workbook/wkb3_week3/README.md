@@ -56,6 +56,7 @@ CREATE TABLE Customers (
 );
 
 ---
+
 ### 🧪 SQL Practical: World Database Challenges
 
 Executed real-world SQL queries using the `world_db` to uncover insights from country and city data. Below are key tasks, queries, and use cases completed during the week.
