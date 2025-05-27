@@ -1,4 +1,4 @@
-Hi 👋 My name is Xinyang Chen
+Hi 👋 My name is Xinyang(Sean) Chen
 =============================
 
 Data Analyst | Business Analyst | Solution Consultant
@@ -11,7 +11,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 * ✉️  You can contact me at [chenxinyang0828@gmail.com](mailto:chenxinyang0828@gmail.com)
 
 
-This portfolio primarily showcases the technical skills I acquired during the 8-week intensive Data Bootcamp hosted by Just IT. These include:
+**<span style="color:blue">This portfolio primarily showcases the key deliveries and technical skills I acquired during the 8-week intensive Data Bootcamp hosted by Just IT. These include:</span>**
 
 - ![Excel](https://img.icons8.com/color/24/000000/microsoft-excel-2019.png) **Excel**: Data Analysis & Data Visualization  
 - ![Tableau](https://img.icons8.com/color/24/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/24/000000/power-bi.png) **Tableau & Power BI**: Data Import & Data Visualization  
@@ -19,7 +19,8 @@ This portfolio primarily showcases the technical skills I acquired during the 8-
 - ![Azure](https://img.icons8.com/color/24/000000/azure-1.png) **Azure**: Cloud Platform Foundation  
 - ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn
 
-### Skills
+
+### Mastered Technique Skills 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
