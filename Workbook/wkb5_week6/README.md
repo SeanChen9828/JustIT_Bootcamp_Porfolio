@@ -85,7 +85,10 @@ df['grade'] = pd.cut(df['mark'],
 # Sorting
 df.sort_values('mark', ascending=False)
 ```
-Advanced Operations
+<p float="center">
+  <img src="Pic_Inserted/Advanced_Operations1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Advanced_Operations2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 - **Exercise 6/7: Export & Visualization**
 ```python
