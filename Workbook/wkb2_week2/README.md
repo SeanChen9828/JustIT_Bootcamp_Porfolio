@@ -67,9 +67,10 @@ This section presents my progress and key deliverables from **Week 2** of the **
 - Life expectancy correlates positively with **BMI, cholesterol, detection rate**
 
 <p align="center">
-  <img src="Pic_Inserted/Health_Population_Overview.png" width="400"/>
-  <img src="Pic_Inserted/Health_Cancer_Burden.png" width="400"/>
-  <img src="Pic_Inserted/Health_Correlation_Dashboard.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard1.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard2.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard3.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard4.png" width="400"/>
 </p>
 
 ---
