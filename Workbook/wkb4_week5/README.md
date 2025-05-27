@@ -47,7 +47,7 @@ Explored core concepts and real-world applications:
 - Set up and queried SQL databases.
 - Evidence: Screenshots of configured tables and queries.
 <p float="center">
-  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+  <img src="Pic_Inserted/Azure_Relational_Data.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
 </p>
 
 ### **2. Non-Relational Data**  
