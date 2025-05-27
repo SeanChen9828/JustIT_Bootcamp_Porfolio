@@ -47,16 +47,55 @@ Explored core concepts and real-world applications:
 - Set up and queried SQL databases.
 - Evidence: Screenshots of configured tables and queries.
 <p float="center">
-  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+  <img src="Pic_Inserted/Azure_Relational_Data.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
 </p>
 
 ### **2. Non-Relational Data**  
 - Worked with Azure Blob Storage and Cosmos DB.
 - Evidence: Screenshots of data uploads and NoSQL operations.
 <p float="center">
-  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+  <img src="Pic_Inserted/Azure_NonRelational_Data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
+  <img src="Pic_Inserted/Azure_NonRelational_Data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
 </p>
+
 ---
 
+## 🐾 Case Study: "Paws & Whiskers" Azure Proposal
+Designed a cloud solution for a pet shop transitioning to Azure:
 
-  
+Compliance: Addressed GDPR and DPA 2018 for customer data.
+
+Azure Services:
+
+ - Storage: Azure SQL Database (structured data), Blob Storage (unstructured).
+
+ - Analytics: Synapse Analytics (sales trends), Machine Learning (customer behavior).
+
+ - Automation: Data Factory for pipeline integration.
+
+ - Data Modeling: Relational tables for customers, transactions, and inventory.
+
+✅ Included backup (Azure Backup), visualization (Power BI), and scalability strategies.
+
+---
+
+## 📜 Key Takeaways
+Cloud Adoption: Azure’s flexibility supports business growth while ensuring compliance.
+
+Legal Awareness: Understanding laws like GDPR is critical for data-driven businesses.
+
+Practical Skills: Gained experience with Azure’s core services through labs.
+
+---
+
+## 🛠️ Tools & Services Used
+| Tool/Service       | Purpose                                  |
+|--------------------|------------------------------------------|
+| Azure SQL Database | Relational data storage and management   |
+| Azure Blob Storage | Unstructured data storage                |
+| Azure Synapse      | Large-scale data analytics               |
+| Power BI           | Data visualization and reporting         |
+
+---
+
+📌 Week 5 deepened my understanding of cloud infrastructure, Azure’s ecosystem, and the intersection of data management with legal compliance.
