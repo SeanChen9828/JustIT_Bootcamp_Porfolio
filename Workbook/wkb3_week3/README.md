@@ -67,12 +67,22 @@ Ran real-world SQL queries using `world_db`. Key examples include:
 ---
 
 ####  Count US Cities
-
 ```sql
 SELECT count(Name)
 FROM city
 WHERE CountryCode = "USA";
 ```
+
+####  Country with Highest Life Expectancy
+```sql
+SELECT Name, LifeExpectancy
+FROM country
+WHERE LifeExpectancy = (
+  SELECT MAX(LifeExpectancy)
+  FROM country
+);
+```
+
 
 ---
 ### 🛠️ Tools Used
