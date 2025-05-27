@@ -45,7 +45,11 @@ df[['name', 'mark']]              # Multiple columns
 df.iloc[:3]                       # First 3 rows
 df[df['class'] == 'Four']         # Filter by class
 ```
-Indexing Examples
+<p float="center">
+  <img src="Pic_Inserted/Indexing_Slicing_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Indexing_Slicing_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Indexing_Slicing_data3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 - **Exercise 3: Data Manipulation**
 ```python
