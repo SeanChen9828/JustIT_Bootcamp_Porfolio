@@ -75,7 +75,7 @@ This section presents my progress and key deliverables from **Week 2** of the **
 
 ---
 
-### 💼 Power BI Labs: Foundations in Reporting
+### 💼 Power BI Virtual Labs: Foundations in Reporting
 
 | Lab #         | Task Description                          | Tool        |
 |---------------|--------------------------------------------|-------------|
@@ -83,11 +83,6 @@ This section presents my progress and key deliverables from **Week 2** of the **
 | Lab 2         | Load & transform data                      | Power BI    |
 | Lab 6         | Design a report                            | Power BI    |
 | Lab 10        | Create an interactive dashboard            | Power BI    |
-
-<p align="center">
-  <img src="Pic_Inserted/PowerBI_Data_Load_Lab.png" width="400"/>
-  <img src="Pic_Inserted/PowerBI_Report_Design_Lab.png" width="400"/>
-</p>
 
 ---
 
