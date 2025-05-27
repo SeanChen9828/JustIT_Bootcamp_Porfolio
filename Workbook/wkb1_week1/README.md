@@ -26,17 +26,11 @@ Developed key Excel skills, including:
 - Pivot tables & conditional formatting  
 - Dataset exploration & trend analysis
 
-**📷 Example: Retail Dataset Analysis**
-
-![Retail Dataset Analysis](Pic_Inserted/Retail_Dataset_Analysis.png)
-
-**📷 Example: Conditional Formatting on Student Scores**
-
-![Conditional Formatting](Pic_Inserted/Conditional_Formatting_on_Student_Scores.png)
-
-**📷 Example: Pivot Table Insights**
-
-![Pivot Table Screenshot](Pic_Inserted/Pivot_Table_Screenshot_Retail_Sales.png)
+<p float="left">
+  <img src="Pic_Inserted/Retail_Dataset_Analysis.png" alt="Retail Dataset Analysis" width="400"/>
+  <img src="Pic_Inserted/Conditional_Formatting_on_Student_Scores.png" alt="Conditional Formatting" width="400"/>
+  <img src="Pic_Inserted/Pivot_Table_Screenshot_Retail_Sales.png" alt="Pivot Table Screenshot" width="400"/>
+</p>
 
 ---
 
@@ -50,19 +44,14 @@ Developed key Excel skills, including:
 - 👗 **Clothing sales** show a **gradual decline** over the year.
 - 📈 **Electronics sales** show a **growth trend**, but with **high monthly volatility**.
 
-**📷 Example: Chart on Age-Based Purchase Trends**
-
-![Age Purchase Chart](Pic_Inserted/Age-Based_Purchase_Trends.png)
-
-**📷 Example: Chart on Product Category Revenue Distribution**
-
-![Product Revenue Distribution Chart](Pic_Inserted/Product_Category_Revenue_Contribution.png)
-
-**📷 Example: Chart on Product Monthly Revenue**
-
-![Product Monthly Revenue Chart](Pic_Inserted/Monthly_Revenue_by_Product_Category.png)
+<p float="left">
+  <img src="Pic_Inserted/Age-Based_Purchase_Trends.png" alt="Age Purchase Chart" width="400"/>
+  <img src="Pic_Inserted/Product_Category_Revenue_Contribution.png" alt="Product Revenue Distribution Chart" width="400"/>
+  <img src="Pic_Inserted/Monthly_Revenue_by_Product_Category.png" alt="Product Monthly Revenue Chart" width="400"/>
+</p>
 
 ---
+
 ### 🛠️ Tools Used
 
 | Tool      | Purpose                                 |
@@ -72,6 +61,3 @@ Developed key Excel skills, including:
 ---
 
 📌 *This week laid the groundwork for practical data analytics, combining technical skills with business communication and compliance understanding.*
-
----
-
