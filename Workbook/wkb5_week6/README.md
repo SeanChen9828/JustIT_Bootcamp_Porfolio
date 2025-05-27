@@ -1,6 +1,6 @@
 # 📘 Week 6 – WorkBook Summary  
 
-This document summarizes Python data manipulation skills and practical exercises completed during **Week 6**, focusing on Pandas operations, data analysis, and visualization.
+This document summarizes Python data manipulation skills and practical exercises completed during **Week 6** of the **8-week intensive Data Bootcamp** by **Just IT**, focusing on Pandas operations, data analysis, and visualization.
 
 ---
 
@@ -17,3 +17,4 @@ for num in range(1, 101):
         print("buzz")
     else:
         print(num)
+```
