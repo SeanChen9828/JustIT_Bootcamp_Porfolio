@@ -50,7 +50,7 @@ Developed key Excel skills, including:
 
 **📷 Example: Chart on Age-Based Purchase Trends**
 
-![Age Purchase Chart](Workbook/wkb1_week1/Pic_Inserted/Age-Based_Purchase_Trends.png)
+![Age Purchase Chart](Pic_Inserted/Age-Based_Purchase_Trends.png)
 
 ---
 
