@@ -94,5 +94,8 @@ df.sort_values('mark', ascending=False)
 ```python
 df.to_csv('graded_students.csv')   # Export
 df.plot(kind='bar', x='name', y='mark')  # Visualization
-Visualization
 ```
+<p float="center">
+  <img src="Pic_Inserted/Exporting_Data2CSV.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/Advanced_Operations2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
