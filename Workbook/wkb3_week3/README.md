@@ -54,7 +54,19 @@ CREATE TABLE Customers (
   phone VARCHAR(20),
   loyalty_points INT DEFAULT 0
 );
+```
+---
+
+### 🛠️ Tools Used
+
+| Tool       | Purpose                                          |
+|------------|--------------------------------------------------|
+| MySQL      | SQL querying & database logic   |
+| MySQL Workbench   | Writing & testing queries     |
+| ERD tools      | Schema visualization             |
 
 ---
+
+📌 *Week 3 reinforced practical SQL logic and back-end data design skills, essential for any data-driven role.*
 
 
