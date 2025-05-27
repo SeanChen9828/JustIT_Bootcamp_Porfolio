@@ -21,6 +21,7 @@ for num in range(1, 101):
 <p float="center">
   <img src="Pic_Inserted/fizzbuzz.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
 </p>
+
 ---
 
 ## 📊 Pandas Data Analysis: Student Dataset
@@ -99,4 +100,6 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
   <img src="Pic_Inserted/Exporting_Data2CSV.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Student_Data_Visulization.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
+
+---
 
