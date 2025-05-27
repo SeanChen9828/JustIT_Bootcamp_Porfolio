@@ -28,7 +28,7 @@ Developed key Excel skills, including:
 
 **📷 Example: Retail Dataset Analysis**
 
-![Retail Dataset Analysis](images/week1_retail_excel.png)
+![Retail Dataset Analysis](Pic_Inserted/Retail_Dataset_Analysis.png)
 
 **📷 Example: Conditional Formatting on Student Scores**
 
