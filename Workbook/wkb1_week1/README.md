@@ -54,6 +54,10 @@ Developed key Excel skills, including:
 
 ![Age Purchase Chart](Pic_Inserted/Age-Based_Purchase_Trends.png)
 
+**📷 Example: Chart on Product Category Revenue Distribution**
+
+![Product Revenue Distribution Chart](Pic_Inserted/Product_Category_Revenue_Contribution.png)
+
 ---
 ### 🛠️ Tools Used
 
