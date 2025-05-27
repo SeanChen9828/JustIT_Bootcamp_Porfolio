@@ -54,3 +54,18 @@ CREATE TABLE Customers (
   phone VARCHAR(20),
   loyalty_points INT DEFAULT 0
 );
+
+---
+### 🧪 SQL Practical: World Database Challenges
+
+Executed real-world SQL queries using the `world_db` to uncover insights from country and city data. Below are key tasks, queries, and use cases completed during the week.
+
+---
+
+#### 🇺🇸 Count Cities in the USA
+
+```sql
+SELECT COUNT(Name)
+FROM city
+WHERE CountryCode = 'USA';
+
