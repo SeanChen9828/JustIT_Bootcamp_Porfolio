@@ -41,7 +41,7 @@ Created a relational schema and SQL structure for a local convenience store:
 
 #### Database Schema Design:
 <p align="center">
-  <img src="Pic_Inserted/SQL_Join_Types_Overview.png" width="400" alt="SQL Join Types Overview"/>
+  <img src="Pic_Inserted/Retail_Business_Database_Schema.png" width="400" alt="SQL Join Types Overview"/>
 </p>
 
 #### Example SQL:
@@ -54,3 +54,74 @@ CREATE TABLE Customers (
   phone VARCHAR(20),
   loyalty_points INT DEFAULT 0
 );
+
+INSERT INTO Customers (first_name, last_name, email, phone)
+VALUES ('Sean', 'Chen', 'Sean@example.com', '444-1234');
+```
+---
+
+### 🧪 SQL Practical: World Database Challenges
+
+Ran real-world SQL queries using `world_db`. Key examples include:
+
+---
+
+####  Count US Cities
+```sql
+SELECT count(Name)
+FROM city
+WHERE CountryCode = "USA";
+```
+
+####  Country with Highest Life Expectancy
+```sql
+SELECT Name, LifeExpectancy
+FROM country
+WHERE LifeExpectancy = (
+  SELECT MAX(LifeExpectancy)
+  FROM country
+);
+```
+
+####  Top 10 Most Populous Cities
+```sql
+SELECT Name, Population
+FROM city
+ORDER BY Population DESC
+LIMIT 10;
+```
+####  Cities with 'New' in the Name
+```sql
+SELECT Name
+FROM city
+WHERE Name LIKE "%New%";
+```
+
+####  GDP Per Capita (Above Average)
+```sql
+SELECT city.Name, A.GDP, A.AVG_GDP
+FROM (
+  SELECT Name, capital, (GNP/Population) AS GDP,
+         (SELECT AVG(GNP/Population) FROM country) AS AVG_GDP
+  FROM country
+  WHERE (GNP/Population) > (SELECT AVG(GNP/Population) FROM country)
+) AS A
+LEFT JOIN city
+ON A.Capital = city.ID
+ORDER BY A.GDP DESC;
+```
+
+---
+### 🛠️ Tools Used
+
+| Tool       | Purpose                                          |
+|------------|--------------------------------------------------|
+| MySQL      | SQL querying & database logic   |
+| MySQL Workbench   | Writing & testing queries     |
+| ERD tools      | Schema visualization             |
+
+---
+
+📌 *Week 3 reinforced practical SQL logic and back-end data design skills, essential for any data-driven role.*
+
+
