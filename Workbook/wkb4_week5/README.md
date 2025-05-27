@@ -60,5 +60,42 @@ Explored core concepts and real-world applications:
 
 ---
 
+## 🐾 Case Study: "Paws & Whiskers" Azure Proposal
+Designed a cloud solution for a pet shop transitioning to Azure:
 
-  
+Compliance: Addressed GDPR and DPA 2018 for customer data.
+
+Azure Services:
+
+ - Storage: Azure SQL Database (structured data), Blob Storage (unstructured).
+
+ - Analytics: Synapse Analytics (sales trends), Machine Learning (customer behavior).
+
+ - Automation: Data Factory for pipeline integration.
+
+ - Data Modeling: Relational tables for customers, transactions, and inventory.
+
+✅ Included backup (Azure Backup), visualization (Power BI), and scalability strategies.
+
+---
+
+## 📜 Key Takeaways
+Cloud Adoption: Azure’s flexibility supports business growth while ensuring compliance.
+
+Legal Awareness: Understanding laws like GDPR is critical for data-driven businesses.
+
+Practical Skills: Gained experience with Azure’s core services through labs.
+
+---
+
+## 🛠️ Tools & Services Used
+| Tool/Service       | Purpose                                  |
+|--------------------|------------------------------------------|
+| Azure SQL Database | Relational data storage and management   |
+| Azure Blob Storage | Unstructured data storage                |
+| Azure Synapse      | Large-scale data analytics               |
+| Power BI           | Data visualization and reporting         |
+
+---
+
+📌 Week 5 deepened my understanding of cloud infrastructure, Azure’s ecosystem, and the intersection of data management with legal compliance.
