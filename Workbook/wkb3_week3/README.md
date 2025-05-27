@@ -83,6 +83,33 @@ WHERE LifeExpectancy = (
 );
 ```
 
+####  Top 10 Most Populous Cities
+```sql
+SELECT Name, Population
+FROM city
+ORDER BY Population DESC
+LIMIT 10;
+```
+####  Cities with 'New' in the Name
+```sql
+SELECT Name
+FROM city
+WHERE Name LIKE "%New%";
+```
+
+####  GDP Per Capita (Above Average)
+```sql
+SELECT city.Name, A.GDP, A.AVG_GDP
+FROM (
+  SELECT Name, capital, (GNP/Population) AS GDP,
+         (SELECT AVG(GNP/Population) FROM country) AS AVG_GDP
+  FROM country
+  WHERE (GNP/Population) > (SELECT AVG(GNP/Population) FROM country)
+) AS A
+LEFT JOIN city
+ON A.Capital = city.ID
+ORDER BY A.GDP DESC;
+```
 
 ---
 ### 🛠️ Tools Used
