@@ -45,9 +45,9 @@ This section presents my progress and key deliverables from **Week 2** of the **
   - Negative: Acousticness
 
 <p align="center">
-  <img src="Pic_Inserted/Spotify_Dashboard_Overview.png" width="400"/>
-  <img src="Pic_Inserted/Spotify_Popularity_Analysis.png" width="400"/>
-  <img src="Pic_Inserted/Spotify_Correlation_Chart.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard1.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard2.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard3.png" width="400"/>
 </p>
 
 ---
