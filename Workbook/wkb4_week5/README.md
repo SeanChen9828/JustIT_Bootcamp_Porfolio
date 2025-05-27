@@ -1,6 +1,6 @@
 # 📘 Week 5 – WorkBook Summary  
 
-This document summarizes key learnings and hands-on activities from Week 5, focusing on cloud computing, Azure services, data regulations, and a business case study.  
+This document summarizes key learnings and hands-on activities from **Week 5** of the **8-week intensive Data Bootcamp** by **Just IT**, focusing on cloud computing, Azure services, data regulations, and a business case study.  
 
 ---
 
