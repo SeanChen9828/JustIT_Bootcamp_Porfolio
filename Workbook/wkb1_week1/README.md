@@ -42,8 +42,6 @@ Developed key Excel skills, including:
 
 ### 🧠 Key Insights from Retail_sales_dataset 
 
-## 📊 Key Insights from Product Purchase Analysis
-
 - 💄 **Beauty products** are more frequently purchased by **women**, while **clothing** and **electronics** show no gender bias.
 - 👥 **Clothing purchases** peak in the **35–44** or **45–54** age groups, then decline with age.
 - 🧓 **Electronics purchases** decrease as age increases beyond middle adulthood.
