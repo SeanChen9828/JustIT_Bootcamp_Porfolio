@@ -55,8 +55,8 @@ CREATE TABLE Customers (
   loyalty_points INT DEFAULT 0
 );
 
-INSERT INTO Customers (name, email, phone)
-VALUES ('Sean Chen', 'Sean@example.com', '444-1234');
+INSERT INTO Customers (first_name, last_name, email, phone)
+VALUES ('Sean', 'Chen', 'Sean@example.com', '444-1234');
 ```
 ---
 
