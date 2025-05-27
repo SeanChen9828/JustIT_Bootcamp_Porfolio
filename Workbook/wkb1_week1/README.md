@@ -28,59 +28,38 @@ Developed key Excel skills, including:
 
 **📷 Example: Retail Dataset Analysis**
 
-![Retail Dataset Analysis](images/week1_retail_excel.png)
+![Retail Dataset Analysis](Pic_Inserted/Retail_Dataset_Analysis.png)
 
 **📷 Example: Conditional Formatting on Student Scores**
 
-![Conditional Formatting](images/week1_student_scores.png)
+![Conditional Formatting](Pic_Inserted/Conditional_Formatting_on_Student_Scores.png)
 
 **📷 Example: Pivot Table Insights**
 
-![Pivot Table Screenshot](images/week1_pivot_table.png)
+![Pivot Table Screenshot](Pic_Inserted/Pivot_Table_Screenshot_Retail_Sales.png)
 
 ---
 
-### 🧠 Key Insights from Data
+### 🧠 Key Insights from Retail_sales_dataset 
 
-- 👗 Clothing purchases peak among ages 35–44  
-- 💄 Women are more likely to buy beauty products  
-- 📈 Electronics sales trend upward over time  
-- 📊 Revenue is evenly distributed across product categories  
-- 🔁 Seasonal effects observed in December bike sales
+- 💄 **Beauty products** are more frequently purchased by **women**, while **clothing** and **electronics** show no gender bias.
+- 👥 **Clothing purchases** peak in the **35–44** or **45–54** age groups, then decline with age.
+- 🧓 **Electronics purchases** decrease as age increases beyond middle adulthood.
+- ⚖️ Revenue is **evenly distributed** across beauty, clothing, and electronics — no category dominates.
+- 📆 **Beauty sales** are stable year-round.
+- 👗 **Clothing sales** show a **gradual decline** over the year.
+- 📈 **Electronics sales** show a **growth trend**, but with **high monthly volatility**.
 
 **📷 Example: Chart on Age-Based Purchase Trends**
 
-![Age Purchase Chart](Workbook/wkb1_week1/Pic%20Inserted/Age-Based%20Purchase%20Trends.png)
+![Age Purchase Chart](Pic_Inserted/Age-Based_Purchase_Trends.png)
 
 ---
-
-### 🗣️ Data Storytelling & Presentation Prep
-
-Simulated a board-level presentation based on a **12-month customer churn** scenario:
-
-- Prepared actionable insights using:
-  - SQL, Python (pandas, seaborn)
-  - Power BI for dashboards
-  - PowerPoint for executive-ready storytelling
-- Best practices covered:
-  - Lead with insights
-  - Use 1 graph per slide
-  - Keep language simple and decision-focused
-
-**📷 Example: Power BI Dashboard (Mock)**
-
-![Power BI Dashboard](images/week1_powerbi_dashboard.png)
-
----
-
 ### 🛠️ Tools Used
 
 | Tool      | Purpose                                 |
 |-----------|------------------------------------------|
 | Excel     | Data cleaning, analysis, dashboards      |
-| Power BI  | Interactive visualization for churn data |
-| Python    | EDA, plotting (matplotlib, seaborn)      |
-| PowerPoint| Executive communication & storytelling   |
 
 ---
 
