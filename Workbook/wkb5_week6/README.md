@@ -103,7 +103,7 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 
 ---
 
-🌍 GDP Data Analysis
+## 🌍 GDP Data Analysis
 Task 1: Data Inspection
 python
 gdp = pd.read_csv('GDP_per_capita.csv')
@@ -122,12 +122,16 @@ Generated visualizations
 GDP Analysis
 Example: GDP distribution by UN Region
 
+---
+
 ## 🔑 Key Takeaways
 - **Pandas Proficiency:** Mastered DataFrame operations (filtering, grouping, pivoting)
 
 - **Data Pipelines:** Built end-to-end workflow from loading → analysis → visualization
 
 - **Real-World Application:** Applied skills to both educational (student) and economic (GDP) datasets
+
+---
 
 ## 🛠️ Tools Used
 | Tool        | Purpose                          |
