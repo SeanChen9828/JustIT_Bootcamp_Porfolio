@@ -45,6 +45,7 @@ Developed key Excel skills, including:
 - 📈 **Electronics sales** show a **growth trend**, but with **high monthly volatility**.
 
 <p float="left">
+  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
   <img src="Pic_Inserted/Age-Based_Purchase_Trends.png" alt="Age Purchase Chart" width="400"/>
   <img src="Pic_Inserted/Product_Category_Revenue_Contribution.png" alt="Product Revenue Distribution Chart" width="400"/>
   <img src="Pic_Inserted/Monthly_Revenue_by_Product_Category.png" alt="Product Monthly Revenue Chart" width="400"/>
