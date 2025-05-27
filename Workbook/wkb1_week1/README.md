@@ -40,13 +40,17 @@ Developed key Excel skills, including:
 
 ---
 
-### 🧠 Key Insights from Retail_sales_dataset & Bike_sales
+### 🧠 Key Insights from Retail_sales_dataset 
 
-- 👗 【Retail_sales_dataset】：Clothing purchases peak among ages 35–44  
-- 💄 【Retail_sales_dataset】：Women are more likely to buy beauty products  
-- 📈 【Retail_sales_dataset】：Electronics sales trend upward over time  
-- 📊 Revenue is evenly distributed across product categories  
-- 🔁 Seasonal effects observed in December bike sales
+## 📊 Key Insights from Product Purchase Analysis
+
+- 💄 **Beauty products** are more frequently purchased by **women**, while **clothing** and **electronics** show no gender bias.
+- 👥 **Clothing purchases** peak in the **35–44** or **45–54** age groups, then decline with age.
+- 🧓 **Electronics purchases** decrease as age increases beyond middle adulthood.
+- ⚖️ Revenue is **evenly distributed** across beauty, clothing, and electronics — no category dominates.
+- 📆 **Beauty sales** are stable year-round.
+- 👗 **Clothing sales** show a **gradual decline** over the year.
+- 📈 **Electronics sales** show a **growth trend**, but with **high monthly volatility**.
 
 **📷 Example: Chart on Age-Based Purchase Trends**
 
