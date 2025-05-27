@@ -30,10 +30,6 @@ Covered essential concepts for designing and understanding relational databases:
 | 🔂 Self Join   | Employee-manager hierarchy from the same table               |
 | ❎ Cross Join  | Generate all color-size combinations for a product           |
 
-<p align="center">
-  <img src="Pic_Inserted/SQL_Join_Types_Overview.png" width="400" alt="SQL Join Types Overview"/>
-</p>
-
 ---
 
 ### 🏬 Case Study: Retail Business Database Design
@@ -42,6 +38,11 @@ Created a relational schema and SQL structure for a local convenience store:
 
 #### Key Tables:
 - `Customers`, `Inventory`, `Sales`, `Sale_Items`, `Suppliers`, `Loyalty_Transactions`
+
+#### Database Schema Design:
+<p align="center">
+  <img src="Pic_Inserted/SQL_Join_Types_Overview.png" width="400" alt="SQL Join Types Overview"/>
+</p>
 
 #### Example SQL:
 ```sql
