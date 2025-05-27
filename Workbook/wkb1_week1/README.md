@@ -32,7 +32,7 @@ Developed key Excel skills, including:
 
 **📷 Example: Conditional Formatting on Student Scores**
 
-![Conditional Formatting](images/week1_student_scores.png)
+![Conditional Formatting](Workbook/wkb1_week1/Pic_Inserted/Conditional_Formatting_on_Student_Scores.png)
 
 **📷 Example: Pivot Table Insights**
 
