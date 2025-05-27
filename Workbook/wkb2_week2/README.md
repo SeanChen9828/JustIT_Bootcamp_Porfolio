@@ -24,7 +24,7 @@ This section presents my progress and key deliverables from **Week 2** of the **
   - 🗺️ **UK map** showing city-wise impact of job changes
 
 <p align="center">
-  <img src="Pic_Inserted/EMSI_Job_Change_Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
 </p>
 
 ---
