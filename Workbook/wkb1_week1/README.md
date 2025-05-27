@@ -1,4 +1,4 @@
-## 📘 Week 1 – Data Bootcamp Portfolio Summary
+## 📘 Week 1 – WorkBook Summary
 
 This section showcases my core learning outcomes and hands-on work completed during **Week 1** of the **8-week intensive Data Bootcamp** organized by **Just IT**. The tasks focused on foundational data techniques, compliance, Excel analytics, and professional communication.
 
@@ -87,13 +87,4 @@ Simulated a board-level presentation based on a **12-month customer churn** scen
 📌 *This week laid the groundwork for practical data analytics, combining technical skills with business communication and compliance understanding.*
 
 ---
-
-### 📥 Add Your Own Screenshots
-
-If you're hosting images locally:
-1. Create a folder named `/images` in your repo.
-2. Add your screenshots with names like `week1_retail_excel.png`, etc.
-3. Replace image URLs above with your actual file paths.
-
-Or, upload to a platform like Imgur or GitHub Issues and use direct image links.
 
