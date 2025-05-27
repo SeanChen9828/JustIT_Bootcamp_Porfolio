@@ -47,7 +47,6 @@ df[df['class'] == 'Four']         # Filter by class
 ```
 <p float="center">
   <img src="Pic_Inserted/Indexing_Slicing_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
-  <img src="Pic_Inserted/Indexing_Slicing_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Indexing_Slicing_data3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
