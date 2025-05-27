@@ -54,8 +54,10 @@ Explored core concepts and real-world applications:
 - Worked with Azure Blob Storage and Cosmos DB.
 - Evidence: Screenshots of data uploads and NoSQL operations.
 <p float="center">
-  <img src="Pic_Inserted/Purchasing_Power_Analysis_Gender.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+  <img src="Pic_Inserted/Azure_NonRelational_Data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
+  <img src="Pic_Inserted/Azure_NonRelational_Data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400"/>
 </p>
+
 ---
 
 
