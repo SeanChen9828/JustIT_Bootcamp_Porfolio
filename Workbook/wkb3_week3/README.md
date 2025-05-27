@@ -41,7 +41,7 @@ Created a relational schema and SQL structure for a local convenience store:
 
 #### Database Schema Design:
 <p align="center">
-  <img src="Pic_Inserted/SQL_Join_Types_Overview.png" width="400" alt="SQL Join Types Overview"/>
+  <img src="Pic_Inserted/Retail_Business_Database_Schema.png" width="400" alt="SQL Join Types Overview"/>
 </p>
 
 #### Example SQL:
