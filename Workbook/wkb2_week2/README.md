@@ -24,7 +24,7 @@ This section presents my progress and key deliverables from **Week 2** of the **
   - 🗺️ **UK map** showing city-wise impact of job changes
 
 <p align="center">
-  <img src="Pic_Inserted/EMSI_Job_Change_Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
 </p>
 
 ---
@@ -45,16 +45,16 @@ This section presents my progress and key deliverables from **Week 2** of the **
   - Negative: Acousticness
 
 <p align="center">
-  <img src="Pic_Inserted/Spotify_Dashboard_Overview.png" width="400"/>
-  <img src="Pic_Inserted/Spotify_Popularity_Analysis.png" width="400"/>
-  <img src="Pic_Inserted/Spotify_Correlation_Chart.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard1.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard2.png" width="400"/>
+  <img src="Pic_Inserted/Spotify_Dashboard3.png" width="400"/>
 </p>
 
 ---
 
 ### 🧬 Dashboard Project 3: Global Health & NHS Support
 
-- Built 5 dashboards using population and health datasets
+- Built 4 main dashboards using population and health datasets
 - Covered:
   - 🌍 Population distribution and growth trends
   - 🎗️ Global cancer burden and gender disparities
@@ -67,14 +67,15 @@ This section presents my progress and key deliverables from **Week 2** of the **
 - Life expectancy correlates positively with **BMI, cholesterol, detection rate**
 
 <p align="center">
-  <img src="Pic_Inserted/Health_Population_Overview.png" width="400"/>
-  <img src="Pic_Inserted/Health_Cancer_Burden.png" width="400"/>
-  <img src="Pic_Inserted/Health_Correlation_Dashboard.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard1.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard2.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard3.png" width="400"/>
+  <img src="Pic_Inserted/Health_Dashboard4.png" width="400"/>
 </p>
 
 ---
 
-### 💼 Power BI Labs: Foundations in Reporting
+### 💼 Power BI Virtual Labs: Foundations in Reporting
 
 | Lab #         | Task Description                          | Tool        |
 |---------------|--------------------------------------------|-------------|
@@ -82,11 +83,6 @@ This section presents my progress and key deliverables from **Week 2** of the **
 | Lab 2         | Load & transform data                      | Power BI    |
 | Lab 6         | Design a report                            | Power BI    |
 | Lab 10        | Create an interactive dashboard            | Power BI    |
-
-<p align="center">
-  <img src="Pic_Inserted/PowerBI_Data_Load_Lab.png" width="400"/>
-  <img src="Pic_Inserted/PowerBI_Report_Design_Lab.png" width="400"/>
-</p>
 
 ---
 
