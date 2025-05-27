@@ -10,7 +10,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 * ✉️  You can contact me at [chenxinyang0828@gmail.com](mailto:chenxinyang0828@gmail.com)
 
 
-**<span style="color:blue">This portfolio primarily showcases the key deliveries and technical skills I acquired during the 8-week intensive Data Bootcamp hosted by Just IT. These include:</span>**
+**<span style="color:blue">This portfolio showcases the core competencies I cultivated, as demonstrated by key deliverables, during the 8-week intensive Data Bootcamp conducted by Just IT. These include:</span>**
 
 - ![Excel](https://img.icons8.com/color/24/000000/microsoft-excel-2019.png) **Excel**: Data Analysis & Data Visualization  
 - ![Tableau](https://img.icons8.com/color/24/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/24/000000/power-bi.png) **Tableau & Power BI**: Data Import & Data Visualization  
