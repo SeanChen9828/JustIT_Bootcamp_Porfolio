@@ -7,7 +7,6 @@ Data Analyst | Business Analyst | Solution Consultant
 Results-driven Business Analyst with over two years of experience in the automotive and data analytics industries, specializing in lead management automation, data-driven marketing, and customer experience optimization. Proven ability to enhance operational efficiency, as demonstrated by improving Buick's DCC (Digital Caller Center) efficiency by 16.7% and increasing Audi’s NEV marketing analysis efficiency by 80%, reducing CPL (cost-per-lead) by 5.5%. Strong expertise in data analytics, process automation, and database management. Adept at collaborating cross-functionally to deliver actionable insights and business impact. No sponsorship required.
 
 * 🌍  I'm based in London, United Kingdom  
-* 🖥️  See my portfolio at [https://github.com/SeanChen9828/JustIT_Bootcamp_Porfolio](https://github.com/SeanChen9828/JustIT_Bootcamp_Porfolio)  
 * ✉️  You can contact me at [chenxinyang0828@gmail.com](mailto:chenxinyang0828@gmail.com)
 
 
