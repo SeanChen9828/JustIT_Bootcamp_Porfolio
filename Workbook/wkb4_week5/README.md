@@ -82,11 +82,11 @@ Designed a cloud solution for a pet shop transitioning to Azure:
 ---
 
 ## 📜 Key Takeaways
-- Cloud Adoption: Azure’s flexibility supports business growth while ensuring compliance.
+- **Cloud Adoption:** Azure’s flexibility supports business growth while ensuring compliance.
 
-- Legal Awareness: Understanding laws like GDPR is critical for data-driven businesses.
+- **Legal Awareness:** Understanding laws like GDPR is critical for data-driven businesses.
 
-- Practical Skills: Gained experience with Azure’s core services through labs.
+- **Practical Skills:** Gained experience with Azure’s core services through labs.
 
 ---
 
