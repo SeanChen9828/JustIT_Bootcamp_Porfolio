@@ -19,5 +19,5 @@ for num in range(1, 101):
         print(num)
 ```
 <p float="center">
-  <img src="Pic_Inserted/Azure_NonRelational_Data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
+  <img src="Pic_Inserted/fizzbuzz.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" height="300"/>
 </p>
