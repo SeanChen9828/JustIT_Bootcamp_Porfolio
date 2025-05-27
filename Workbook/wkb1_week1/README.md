@@ -36,7 +36,7 @@ Developed key Excel skills, including:
 
 **📷 Example: Pivot Table Insights**
 
-![Pivot Table Screenshot](images/week1_pivot_table.png)
+![Pivot Table Screenshot](Pic_Inserted/Pivot_Table_Screenshot_Retail_Sales.png)
 
 ---
 
