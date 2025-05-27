@@ -1,5 +1,4 @@
 # 📘 Week 6 – WorkBook Summary  
-**Data Technician Course**  
 
 This document summarizes Python data manipulation skills and practical exercises completed during **Week 6**, focusing on Pandas operations, data analysis, and visualization.
 
