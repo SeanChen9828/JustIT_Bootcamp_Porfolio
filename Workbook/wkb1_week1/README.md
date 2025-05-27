@@ -58,6 +58,10 @@ Developed key Excel skills, including:
 
 ![Product Revenue Distribution Chart](Pic_Inserted/Product_Category_Revenue_Contribution.png)
 
+**📷 Example: Chart on Product Monthly Revenue**
+
+![Product Monthly Revenue Chart](Pic_Inserted/Monthly_Revenue_by_Product_Category.png)
+
 ---
 ### 🛠️ Tools Used
 
