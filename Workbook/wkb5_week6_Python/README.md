@@ -107,9 +107,9 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 **A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
 
 ### 🔹 Example 1: Data Inspection & Cleansing
-<p float="left" style="vertical-align: top;">
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+<p float="left">
+  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" style="vertical-align: top;"/>
+  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" style="vertical-align: top;"/>
 </p>
 
 ### 🔹 Example 2: Correlation Heatmap
@@ -117,23 +117,15 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
   <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-Task 1: Data Inspection
-python
-gdp = pd.read_csv('GDP_per_capita.csv')
-gdp.head(10)                      # First 10 rows
-gdp.tail(5)                       # Last 5 rows
-gdp[['Country/Territory', 'UN_Region']]  # Specific columns
-GDP Output
+### 🔹 Example 3: Bar Plot
+<p float="center" style="vertical-align: top;">
+  <img src="Pic_Inserted/GDP_Bar_plot.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
-Task 2: Advanced Exploration
-Cleaned and transformed GDP data
-
-Created regional comparisons
-
-Generated visualizations
-
-GDP Analysis
-Example: GDP distribution by UN Region
+### 🔹 Example 4: Scatter Plot
+<p float="center" style="vertical-align: top;">
+  <img src="Pic_Inserted/GDP_Scatter_plot.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 ---
 
