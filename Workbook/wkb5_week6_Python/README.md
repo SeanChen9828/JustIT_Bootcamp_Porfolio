@@ -134,8 +134,10 @@ Example: GDP distribution by UN Region
 ---
 
 ## 🛠️ Tools Used
-| Tool        | Purpose                          |
-|-------------|----------------------------------|
-| Pandas      | Data manipulation and analysis   |
-| Jupyter     | Interactive coding environment   |
-| Matplotlib  | Basic data visualization         |
+| Tool      | Purpose                                 |
+|-----------|------------------------------------------|
+| Pandas    | Data manipulation and analysis           |
+| Jupyter   | Interactive coding environment           |
+| Matplotlib| Basic data visualization                 |
+| Seaborn   | Statistical data visualization           |
+| Plotly    | Interactive, web-based visualizations    |
