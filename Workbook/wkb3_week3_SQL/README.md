@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Pic_Inserted/power-BI-vs-tableau.png" width="100%" height = "200" alt="Excel Background Visual"/>
+</p>
+
 ## 📘 Week 3 – WorkBook Summary
 
 This section covers my learning outcomes and practical tasks completed during **Week 3** of the **8-week intensive Data Bootcamp** by **Just IT**. The week focused on database fundamentals, relational vs non-relational systems, SQL joins, database schema design, and practical SQL queries using the world database.
