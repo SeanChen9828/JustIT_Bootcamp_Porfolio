@@ -141,3 +141,7 @@ Example: GDP distribution by UN Region
 | Matplotlib| Basic data visualization                 |
 | Seaborn   | Statistical data visualization           |
 | Plotly    | Interactive, web-based visualizations    |
+
+---
+
+📌 Week 6 solidified my Python data wrangling skills with Pandas, from basic operations to advanced analytics, while applying these techniques to real-world datasets (student performance and GDP analysis). The hands-on exercises strengthened my ability to transform raw data into actionable insights through cleaning, visualization, and statistical aggregation.
