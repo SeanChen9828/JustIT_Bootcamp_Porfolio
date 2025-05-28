@@ -104,6 +104,9 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 ---
 
 ## 🌍 GDP Data Analysis
+**A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
+
+### Step 1: 
 Task 1: Data Inspection
 python
 gdp = pd.read_csv('GDP_per_capita.csv')
@@ -141,3 +144,7 @@ Example: GDP distribution by UN Region
 | Matplotlib| Basic data visualization                 |
 | Seaborn   | Statistical data visualization           |
 | Plotly    | Interactive, web-based visualizations    |
+
+---
+
+📌 Week 6 solidified my Python data wrangling skills with Pandas, from basic operations to advanced analytics, while applying these techniques to real-world datasets (student performance and GDP analysis). The hands-on exercises strengthened my ability to transform raw data into actionable insights through cleaning, visualization, and statistical aggregation.
