@@ -1,3 +1,5 @@
+https://d2nzy1qhita6w.cloudfront.net/media/mf_webp/jpeg/media/magefan_blog/data-analysis-skills-duties-responsibilities.webp
+
 Hi 👋 My name is Xinyang(Sean) Chen
 =============================
 
