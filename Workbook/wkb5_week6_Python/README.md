@@ -119,12 +119,12 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 
 ### 🔹 Example 3: Bar Plot
 <p float="center" style="vertical-align: top;">
-  <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/GDP_Bar_plot.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
 ### 🔹 Example 4: Scatter Plot
 <p float="center" style="vertical-align: top;">
-  <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+  <img src="Pic_Inserted/GDP_Scatter_plot.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
 ---
