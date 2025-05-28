@@ -19,6 +19,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 - ![Azure](https://img.icons8.com/color/24/000000/azure-1.png) **Azure**: Cloud Platform Foundation  
 - ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn
 
+---
 
 ### Mastered Technique Skills 
 
