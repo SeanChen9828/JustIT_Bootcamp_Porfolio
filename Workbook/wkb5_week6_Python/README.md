@@ -106,7 +106,7 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 ## 🌍 GDP Data Analysis
 **A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
 
-### - Example 1: Data Inspection & Cleansing
+### 🔹 Example 1: Data Inspection & Cleansing
 <p float="center">
   <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
