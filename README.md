@@ -1,3 +1,4 @@
+### Profile Introduction
 Hi 👋 My name is Xinyang(Sean) Chen
 =============================
 
@@ -10,6 +11,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 * ✉️  You can contact me at [chenxinyang0828@gmail.com](mailto:chenxinyang0828@gmail.com)
 
 ---
+### Porfolio  Description
 
 **<span style="color:blue">This portfolio showcases the core competencies I cultivated, as demonstrated by key deliverables, during the 8-week intensive Data Bootcamp conducted by Just IT. These include:</span>**
 
