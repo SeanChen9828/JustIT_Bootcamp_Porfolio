@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Pic_Inserted/What-is-SQL-Server.png" width="100%" height = "200" alt="Excel Background Visual"/>
+</p>
+
 # 📘 Week 5 – WorkBook Summary  
 
 This document summarizes key learnings and hands-on activities from **Week 5** of the **8-week intensive Data Bootcamp** by **Just IT**, focusing on cloud computing, Azure services, data regulations, and a business case study.  
