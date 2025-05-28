@@ -117,23 +117,15 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
   <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
-Task 1: Data Inspection
-python
-gdp = pd.read_csv('GDP_per_capita.csv')
-gdp.head(10)                      # First 10 rows
-gdp.tail(5)                       # Last 5 rows
-gdp[['Country/Territory', 'UN_Region']]  # Specific columns
-GDP Output
+### 🔹 Example 3: Bar Plot
+<p float="center" style="vertical-align: top;">
+  <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
-Task 2: Advanced Exploration
-Cleaned and transformed GDP data
-
-Created regional comparisons
-
-Generated visualizations
-
-GDP Analysis
-Example: GDP distribution by UN Region
+### 🔹 Example 4: Scatter Plot
+<p float="center" style="vertical-align: top;">
+  <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+</p>
 
 ---
 
