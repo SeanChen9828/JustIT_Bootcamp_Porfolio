@@ -19,7 +19,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 - ![Tableau](https://img.icons8.com/color/24/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/24/000000/power-bi.png) **Tableau & Power BI - Wkb2**: Data Import & Data Visualization  
 - ![SQL](https://img.icons8.com/ios-filled/24/000000/sql.png) **SQL - Wkb3**: Database Structuring & Data Query  
 - ![Azure](https://img.icons8.com/color/24/000000/azure-1.png) **Azure - Wkb4**: Cloud Platform Foundation  
-- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python - Wkb5**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn
+- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python - Wkb5**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn & Plotly
 
 ---
 
