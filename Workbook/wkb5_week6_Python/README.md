@@ -34,7 +34,7 @@ df.head(5)                       # First 5 rows
 df.info()                        # DataFrame structure
 df.describe()                    # Summary statistics
 ```
-<p float="center">
+<p float="center" style="vertical-align: top;">
   <img src="Pic_Inserted/Loading_Exploring_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Loading_Exploring_data2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
@@ -46,7 +46,7 @@ df[['name', 'mark']]              # Multiple columns
 df.iloc[:3]                       # First 3 rows
 df[df['class'] == 'Four']         # Filter by class
 ```
-<p float="center">
+<p float="center" style="vertical-align: top;">
   <img src="Pic_Inserted/Indexing_Slicing_data1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Indexing_Slicing_data3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
@@ -57,7 +57,7 @@ df['passed'] = df['mark'] >= 60    # New boolean column
 df.rename(columns={'mark':'score'}) # Rename column
 df.drop('passed', axis=1)           # Remove column
 ```
-<p float="center">
+<p float="center" style="vertical-align: top;">
   <img src="Pic_Inserted/Data_Manipulating1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Data_Manipulating2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Data_Manipulating3.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
@@ -86,7 +86,7 @@ df['grade'] = pd.cut(df['mark'],
 # Sorting
 df.sort_values('mark', ascending=False)
 ```
-<p float="center">
+<p float="center" style="vertical-align: top;">
   <img src="Pic_Inserted/Advanced_Operations1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Advanced_Operations2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
@@ -96,7 +96,7 @@ df.sort_values('mark', ascending=False)
 df.to_csv('graded_students.csv')   # Export
 df.plot(kind='bar', x='name', y='mark')  # Visualization
 ```
-<p float="center">
+<p float="center" style="vertical-align: top;">
   <img src="Pic_Inserted/Exporting_Data2CSV.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/Student_Data_Visulization.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
@@ -107,15 +107,14 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 **A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
 
 ### 🔹 Example 1: Data Inspection & Cleansing
-<p float="center">
+<p float="left" style="vertical-align: top;">
   <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
   <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
 ### 🔹 Example 2: Correlation Heatmap
-<p float="center">
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+<p float="center" style="vertical-align: top;">
+  <img src="Pic_Inserted/correlation_heatmap.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
 </p>
 
 Task 1: Data Inspection
