@@ -107,9 +107,9 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 **A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
 
 ### 🔹 Example 1: Data Inspection & Cleansing
-<p float="left" style="vertical-align: top;">
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
-  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" />
+<p float="left">
+  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing1.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" style="vertical-align: top;"/>
+  <img src="Pic_Inserted/GDP_Data_Inspection_Cleansing2.png" alt="Purchasing Power Analysis:Gender Differences Chart" width="400" style="vertical-align: top;"/>
 </p>
 
 ### 🔹 Example 2: Correlation Heatmap
