@@ -1,4 +1,6 @@
-https://d2nzy1qhita6w.cloudfront.net/media/mf_webp/jpeg/media/magefan_blog/data-analysis-skills-duties-responsibilities.webp
+<p align="center">
+  <img src="[Pic_Inserted/excel.png](https://d2nzy1qhita6w.cloudfront.net/media/mf_webp/jpeg/media/magefan_blog/data-analysis-skills-duties-responsibilities.webp)" width="100%" height = "200" alt="Excel Background Visual"/>
+</p>
 
 Hi 👋 My name is Xinyang(Sean) Chen
 =============================
