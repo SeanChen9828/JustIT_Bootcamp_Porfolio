@@ -12,13 +12,14 @@ Results-driven Business Analyst with over two years of experience in the automot
 ---
 ## Porfolio  Description
 
-**<span style="color:blue">This portfolio showcases the core competencies I cultivated, as demonstrated by key deliverables, during the 8-week intensive Data Bootcamp conducted by Just IT. These include:</span>**
+**<span style="color:blue">This portfolio centers around five core weekly workbooks delivered during the 8-week intensive Data Bootcamp conducted by Just IT. Each workbook highlights a distinct set of technical skills. These include:
+:</span>**
 
-- ![Excel](https://img.icons8.com/color/24/000000/microsoft-excel-2019.png) **Excel**: Data Analysis & Data Visualization  
-- ![Tableau](https://img.icons8.com/color/24/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/24/000000/power-bi.png) **Tableau & Power BI**: Data Import & Data Visualization  
-- ![SQL](https://img.icons8.com/ios-filled/24/000000/sql.png) **SQL**: Database Structuring & Data Query  
-- ![Azure](https://img.icons8.com/color/24/000000/azure-1.png) **Azure**: Cloud Platform Foundation  
-- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn
+- ![Excel](https://img.icons8.com/color/24/000000/microsoft-excel-2019.png) **Excel - Wkb1**: Data Analysis Foundation & Data Visualization 
+- ![Tableau](https://img.icons8.com/color/24/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/24/000000/power-bi.png) **Tableau & Power BI - Wkb2**: Data Import & Data Visualization  
+- ![SQL](https://img.icons8.com/ios-filled/24/000000/sql.png) **SQL - Wkb3**: Database Structuring & Data Query  
+- ![Azure](https://img.icons8.com/color/24/000000/azure-1.png) **Azure - Wkb4**: Cloud Platform Foundation  
+- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python - Wkb5**: Data Manipulation with Pandas & Numpy; Data Visualization with Matplotlib & Seaborn
 
 ---
 
