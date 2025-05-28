@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Pic_Inserted/power-BI-vs-tableau.png" width="100%" height = "200" alt="Excel Background Visual"/>
+</p>
+
 ## 📘 Week 2 – WorkBook Summary
 
 This section presents my progress and key deliverables from **Week 2** of the **8-week intensive Data Bootcamp** by **Just IT**. This week's focus was on data visualization using Tableau and Power BI, plus real-world data analysis on health, music streaming, and employment.
