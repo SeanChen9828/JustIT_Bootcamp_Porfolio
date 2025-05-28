@@ -104,6 +104,9 @@ df.plot(kind='bar', x='name', y='mark')  # Visualization
 ---
 
 ## 🌍 GDP Data Analysis
+**A comparison of living standards across countries and regions based on GDP-related data from three major sources: the World Bank, the IMF, and UN Data.**
+
+### Step 1: 
 Task 1: Data Inspection
 python
 gdp = pd.read_csv('GDP_per_capita.csv')
