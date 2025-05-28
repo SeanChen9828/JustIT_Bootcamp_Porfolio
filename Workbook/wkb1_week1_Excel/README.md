@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.example.com/path-to-your-excel-banner.png" width="100%" alt="Excel Background Visual"/>
+</p>
+
 ## 📘 Week 1 – WorkBook Summary
 
 This section showcases my core learning outcomes and hands-on work completed during **Week 1** of the **8-week intensive Data Bootcamp** organized by **Just IT**. The tasks focused on foundational data techniques, compliance, Excel analytics, and professional communication.
