@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pic_Inserted/excel.png" width="100%" height = "200" alt="Excel Background Visual"/>
+  <img src="Pic_Inserted/power-BI-vs-tableau.png" width="100%" height = "200" alt="Excel Background Visual"/>
 </p>
 
 ## 📘 Week 2 – WorkBook Summary
