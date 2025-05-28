@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Pic_Inserted/python.png" width="100%" height = "200" alt="Excel Background Visual"/>
+</p>
+
 # 📘 Week 6 – WorkBook Summary  
 
 This document summarizes Python data manipulation skills and practical exercises completed during **Week 6** of the **8-week intensive Data Bootcamp** by **Just IT**, focusing on Pandas operations, data analysis, and visualization.
