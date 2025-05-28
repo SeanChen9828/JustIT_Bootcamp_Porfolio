@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.example.com/path-to-your-excel-banner.png" width="100%" alt="Excel Background Visual"/>
+  <img src="Pic_Inserted/excel.png" width="100%" alt="Excel Background Visual"/>
 </p>
 
 ## 📘 Week 1 – WorkBook Summary
