@@ -10,7 +10,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 * ✉️  You can contact me at [chenxinyang0828@gmail.com](mailto:chenxinyang0828@gmail.com)
 
 ---
-## Porfolio  Description
+## 👔 Porfolio  Description
 
 **<span style="color:blue">This portfolio centers around five core weekly workbooks delivered during the 8-week intensive Data Bootcamp conducted by Just IT. Each workbook highlights a distinct set of technical skills. These include:
 :</span>**
@@ -23,7 +23,7 @@ Results-driven Business Analyst with over two years of experience in the automot
 
 ---
 
-## Mastered Technique Skills 
+## 💡 Mastered Technique Skills 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
